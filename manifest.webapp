@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "name": "Tower Block",
+  "description": "Build your tower as high as posibble",
+  "launch_path": "/index.html",
+  "theme": "#873eff",
+  "theme_color": "#873eff",
+  "background_color": "#873eff",
+  "categories": [
+    "utilities"
+  ],
+  "icons": {
+    "56": "/icons/icon56x56.gif",
+    "112": "/icons/icon112x112.gif"
+  },
+  "developer": {
+    "name": "arma7x",
+    "url": "https://github.com/arma7x"
+  },
+  "origin": "app://tower-clock.arma7x.com",
+  "type": "web",
+  "permissions": {},
+  "messages": [],
+  "locales": {
+    "en-US": {
+      "name": "Tower Block",
+      "subtitle": "Build your tower as high as posibble",
+      "description": "Build your tower as high as posibble"
+    }
+  },
+  "default_locale": "en-US"
+}

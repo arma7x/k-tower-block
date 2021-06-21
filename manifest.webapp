@@ -6,6 +6,10 @@
   "theme": "#873eff",
   "theme_color": "#873eff",
   "background_color": "#873eff",
+  "fullscreen": "true",
+  "chrome": {
+    "statusbar": "overlap"
+  },
   "categories": [
     "utilities"
   ],
